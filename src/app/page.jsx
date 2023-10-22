@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css"
 import img from 'public/hero.png'
+import Button from "@/components/Button/button";
 export default function Home() {
   return (
     <div className={styles.container}>
