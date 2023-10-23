@@ -6,6 +6,10 @@ import Footer from '@/components/footer/Footer'
 import { ThemeProvider } from '@/context/ThemeContext'
 
 const inter = Inter({ subsets: ['latin'] })
+export const metadata = {
+  title: "Ezezii",
+  description: "This is the description",
+};
 
 export default function RootLayout({ children }) {
   return (
