@@ -1,7 +1,10 @@
-import Link from 'next/link'
-import React from 'react'
+"use client";
+
+import Link from "next/link";
+import React from "react";
 import styles from "./page.module.css";
-import DarkModeToggle from '../DarkModeToggle/DarkModeToggle';
+import DarkModeToggle from "../DarkModeToggle/DarkModeToggle";
+import { signOut, useSession } from "next-auth/react";
 
 const links = [
     {
@@ -35,13 +38,14 @@ const links = [
         url: "/dashboard",
     },
 ];
+
 const Navbar = () => {
-    //const session = useSession();
+    const session = useSession();
 
     return (
         <div className={styles.container}>
             <Link href="/" className={styles.logo}>
-                Ezezzi
+                Ezezii
             </Link>
             <div className={styles.links}>
                 <DarkModeToggle />
@@ -50,14 +54,14 @@ const Navbar = () => {
                         {link.title}
                     </Link>
                 ))}
-                {/* {session.status === "authenticated" && (
+                {session.status === "authenticated" && (
                     <button className={styles.logout} onClick={signOut}>
                         Logout
                     </button>
-                )} */}
+                )}
             </div>
         </div>
     );
 };
 
-export default Navbar
+export default Navbar;
