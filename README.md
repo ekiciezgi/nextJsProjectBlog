@@ -1,4 +1,4 @@
-Ezezii project NEXT JS
+Ezezii project NEXT JS next-auth 
 
 [screen-capture (4).webm](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/0e72d00d-8303-4271-814f-d577e8939a16)
 ![Ekran görüntüsü 2023-11-18 195644](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/e59a2640-9308-4d47-be92-ded9cdb01afc)
