@@ -1,23 +1,5 @@
 Ezezii project NEXT JS
-
-[Uploading screen-capture (4).webm…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[screen-capture (4).webm](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/0e72d00d-8303-4271-814f-d577e8939a16)
 
 
 
