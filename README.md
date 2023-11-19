@@ -9,6 +9,8 @@ Ezezii project NEXT JS next-auth
 ![Ekran görüntüsü 2023-11-18 195738](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/f1ee50fa-c996-45bd-8d4f-cb6e69ce73f8)
 ![Ekran görüntüsü 2023-11-18 195752](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/ed9c044d-2271-43fb-8659-be807a570582)
 ![Ekran görüntüsü 2023-11-18 195810](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/bd5c5a34-158e-49b6-9bbb-e7e872eb251f)
+![Ekran görüntüsü 2023-11-18 200212](https://github.com/ekiciezgi/nextJsProjectBlog/assets/78070798/0b32911c-0669-40f3-8248-3bf027e6c1dc)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
